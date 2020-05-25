@@ -2,7 +2,6 @@
 	"name": "@ctx-core/module-card",
 	"version": "2.0.16",
 	"description": "ctx-core module-card",
-	"type": "module",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
