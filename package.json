@@ -3,7 +3,7 @@
 	"version": "2.0.19",
 	"description": "ctx-core module-card",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"exec": "$@"
 	},
 	"repository": {
 		"type": "git",
