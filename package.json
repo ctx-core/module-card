@@ -17,10 +17,10 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"scripts": {
-		"exec": "$@"
+		"exec": "$@",
+		"build": "npm run compile"
 	},
 	"publishConfig": {
 		"access": "public"
-	},
-	"gitHead": "11557a3e6c7c6daecda8c1931385b2355d4d100b"
+	}
 }
