@@ -1,29 +1,29 @@
 {
-  "name": "@ctx-core/module-card",
-  "version": "2.0.21",
-  "description": "ctx-core module-card",
-  "keywords": [
-    "ctx-core",
-    "module-card"
-  ],
-  "homepage": "https://github.com/ctx-core/module-card#readme",
-  "bugs": {
-    "url": "https://github.com/ctx-core/module-card/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ctx-core/module-card/issues"
-  },
-  "license": "Apache-2.0",
-  "author": "Brian Takita",
-  "scripts": {
-    "build": "npm run compile",
-    "exec": "$@"
-  },
-  "devDependencies": {
-    "typescript": "^4.0.3"
-  },
-  "publishConfig": {
-    "access": "public"
-  }
+	"name": "@ctx-core/module-card",
+	"version": "2.0.21",
+	"description": "ctx-core module-card",
+	"keywords": [
+		"ctx-core",
+		"module-card"
+	],
+	"homepage": "https://github.com/ctx-core/module-card#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/module-card/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/module-card/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"scripts": {
+		"build": "npm run compile",
+		"exec": "$@"
+	},
+	"devDependencies": {
+		"typescript": "^4.0.3"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
