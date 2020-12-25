@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 2.0.25
+
+### Patch Changes
+
+- - .rush
+
 ## 2.0.24
 
 ### Patch Changes
