@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 2.0.26
+
+### Patch Changes
+
+- typescript: ^4.1.3 -> ^4.1.4
+
 ## 2.0.25
 
 ### Patch Changes
