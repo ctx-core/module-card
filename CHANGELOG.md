@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 2.0.29
+
+### Patch Changes
+
+- version bump
+
 ## 2.0.28
 
 ### Patch Changes
