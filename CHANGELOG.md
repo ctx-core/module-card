@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 2.0.31
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+
 ## 2.0.30
 
 ### Patch Changes
