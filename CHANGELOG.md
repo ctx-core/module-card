@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 2.1.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
 ## 2.0.34
 
 ### Patch Changes
