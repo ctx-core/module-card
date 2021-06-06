@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 2.1.4
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+
 ## 2.1.3
 
 ### Patch Changes
