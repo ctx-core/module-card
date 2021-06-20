@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 2.1.8
+
+### Patch Changes
+
+- fix: deploying \*.js files
+
 ## 2.1.7
 
 ### Patch Changes
