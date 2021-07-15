@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 3.0.1
+
+### Patch Changes
+
+- 2a6971f80: fix: "type": "module"
+
 ## 3.0.0
 
 ### Major Changes
