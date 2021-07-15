@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 3.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
 ## 2.1.9
 
 ### Patch Changes
