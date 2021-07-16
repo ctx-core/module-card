@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 3.0.3
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+
 ## 3.0.2
 
 ### Patch Changes
