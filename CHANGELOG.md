@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 3.0.9
+
+### Patch Changes
+
+- compile using swc
+
 ## 3.0.8
 
 ### Patch Changes

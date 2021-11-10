@@ -1,6 +1,7 @@
 {
 	"name": "@ctx-core/module-card",
-	"version": "3.0.8",
+	"version": "3.0.9",
+	"type": "module",
 	"description": "ctx-core module-card",
 	"keywords": [
 		"ctx-core",
@@ -20,15 +21,12 @@
 		"build": ":",
 		"exec": "$@"
 	},
+	"dependencies": {},
 	"devDependencies": {
 		"typescript": "^4.4.4"
 	},
 	"publishConfig": {
 		"access": "public",
 		"cache": "~/.npm"
-	},
-	"dependencies": {
-		"esm": "^3.2.25"
-	},
-	"type": "module"
+	}
 }
