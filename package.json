@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/module-card",
-	"version": "3.0.9",
+	"version": "3.0.10",
 	"type": "module",
 	"description": "ctx-core module-card",
 	"keywords": [
@@ -23,7 +23,7 @@
 	},
 	"dependencies": {},
 	"devDependencies": {
-		"typescript": "^4.4.4"
+		"typescript": "^4.5.2"
 	},
 	"publishConfig": {
 		"access": "public",
