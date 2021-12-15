@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 3.0.12
+
+### Patch Changes
+
+- fix: package.json: exports
+
 ## 3.0.11
 
 ### Patch Changes

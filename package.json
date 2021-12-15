@@ -1,7 +1,10 @@
 {
 	"name": "@ctx-core/module-card",
-	"version": "3.0.11",
+	"version": "3.0.12",
 	"type": "module",
+	"exports": {
+		"./package.json": "./package.json"
+	},
 	"description": "ctx-core module-card",
 	"keywords": [
 		"ctx-core",
@@ -13,7 +16,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/module-card/issues"
+		"url": "https://github.com/ctx-core/module-card.git"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
