@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 3.0.11
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 3.0.10
 
 ### Patch Changes
