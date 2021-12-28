@@ -33,5 +33,5 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./dist/index.js"
+	"svelte": "./lib/index.js"
 }
