@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/module-card",
-	"version": "3.0.14",
+	"version": "3.0.15",
 	"type": "module",
 	"exports": {
 		"./package.json": "./package.json"
@@ -33,5 +33,6 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js"
+	"svelte": "./lib/index.js",
+	"sideEffects": false
 }

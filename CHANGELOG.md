@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 3.0.15
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 3.0.14
 
 ### Patch Changes
