@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 3.0.17
+
+### Patch Changes
+
+- rimraf: ^4.0.1 -> ^4.0.4
+
 ## 3.0.16
 
 ### Patch Changes
