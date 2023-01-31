@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/module-card",
-	"version": "3.0.17",
+	"version": "3.0.18",
 	"type": "module",
 	"exports": {
 		"./package.json": "./package.json"
