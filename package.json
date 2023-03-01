@@ -1,8 +1,10 @@
 {
 	"name": "@ctx-core/module-card",
-	"version": "3.0.19",
+	"version": "3.0.20",
 	"type": "module",
+	"types": "./src/index.d.ts",
 	"exports": {
+		".": "./src/index.js",
 		"./package.json": "./package.json"
 	},
 	"description": "ctx-core module-card",
