@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 3.0.39
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+
 ## 3.0.38
 
 ### Patch Changes
