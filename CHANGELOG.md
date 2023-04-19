@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 3.0.40
+
+### Patch Changes
+
+- fix: + \*.js files
+
 ## 3.0.39
 
 ### Patch Changes

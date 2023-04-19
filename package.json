@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/module-card",
-	"version": "3.0.39",
+	"version": "3.0.40",
 	"type": "module",
 	"types": "./src/index.d.ts",
 	"exports": {
