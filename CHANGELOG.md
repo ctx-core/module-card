@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 3.0.41
+
+### Patch Changes
+
+- version bump
+
 ## 3.0.40
 
 ### Patch Changes
