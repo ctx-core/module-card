@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/module-card",
-	"version": "3.0.41",
+	"version": "3.0.42",
 	"type": "module",
 	"types": "./src/index.d.ts",
 	"exports": {
@@ -34,7 +34,7 @@
 	"devDependencies": {
 		"c8": "^8.0.1",
 		"check-dts": "^0.7.2",
-		"tsx": "^3.13.0",
+		"tsx": "^3.14.0",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},
