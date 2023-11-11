@@ -1,10 +1,13 @@
 {
 	"name": "@ctx-core/module-card",
-	"version": "3.0.42",
+	"version": "3.1.0",
 	"type": "module",
-	"types": "./src/index.d.ts",
+	"files": [
+		"*.d.ts"
+	],
+	"types": "./index.d.ts",
 	"exports": {
-		".": "./src/index.js",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
 	"description": "ctx-core module-card",
@@ -42,6 +45,5 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js",
 	"sideEffects": false
 }
