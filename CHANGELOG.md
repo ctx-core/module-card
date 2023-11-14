@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 3.1.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+
 ## 3.1.1
 
 ### Patch Changes
