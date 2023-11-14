@@ -1,5 +1,15 @@
 # @ctx-core/module-card
 
+## 3.1.4
+
+### Patch Changes
+
+- package.json: files:
+
+      *.d.ts
+      *.js
+      *.json
+
 ## 3.1.3
 
 ### Patch Changes
