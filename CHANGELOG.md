@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 3.1.8
+
+### Patch Changes
+
+- tsx: ^4.3.0 -> ^4.4.0
+
 ## 3.1.7
 
 ### Patch Changes
