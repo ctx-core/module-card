@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/module-card",
-	"version": "3.1.11",
+	"version": "3.1.12",
 	"type": "module",
 	"files": [
 		"*.d.ts",
@@ -26,7 +26,11 @@
 		"url": "https://github.com/ctx-core/module-card.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-module-card@briantakita.me"
+	},
 	"scripts": {
 		"build": ":",
 		"clean": ":",

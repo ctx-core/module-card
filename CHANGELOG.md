@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 3.1.12
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 3.1.11
 
 ### Patch Changes
