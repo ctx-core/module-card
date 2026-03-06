@@ -1,5 +1,11 @@
 # @ctx-core/module-card
 
+## 3.1.14
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 3.1.13
 
 ### Patch Changes
